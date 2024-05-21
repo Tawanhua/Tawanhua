@@ -1,5 +1,5 @@
-## About Me 👋 
-**Hello, I'm Jerry Huynh**
+## About Me 
+**Hello👋 , I'm Jerry Huynh**
 * I'm currently based in DFW, Texas
 * 
 
@@ -26,4 +26,4 @@
 
 
 ## **Stats**
-![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=Tawanhua&theme=tokyonight&layout=compact)
+![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=Tawanhua&theme=tokyonight)
