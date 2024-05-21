@@ -7,6 +7,7 @@
 
 [![Static Badge](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoSize=auto&labelColor=black)](https://mail.google.com/mail/u/0/?hl=en&tf=cm&fs=1&to=jerry.sean.huynh@gmail.com)
 
+**Socials**
 <p align="left"> 
 <a href="https://www.github.com/Tawanhua" target="_blank" rel="noreferrer">
     <picture>
