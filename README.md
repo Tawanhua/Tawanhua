@@ -1,5 +1,5 @@
 ## About Me 
-**Hello👋 , I'm Jerry Huynh**
+:**Hello👋 , I'm Jerry Sean Huynh**:
 <p align="left"> 
 <a href="https://www.github.com/Tawanhua" target="_blank" rel="noreferrer">
     <picture>
