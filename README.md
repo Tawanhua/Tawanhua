@@ -30,7 +30,7 @@
 
 **Frameworks | Libraries**
 
-![Static Badge](https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=%236DB33F&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/Tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=%2302569B&logoSize=auto&labelColor=black) 
+![Static Badge](https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=%236DB33F&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&logoSize=auto&labelColor=black) ![Static Badge](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=%2302569B&logoSize=auto&labelColor=black) 
 
 **Tools**
 
