@@ -40,4 +40,4 @@
 
 
 ## **Stats**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tawanhua&layout=compact)
+[![Tawanhua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tawanhua)](https://github.com/Tawanhua/github-readme-stats)
