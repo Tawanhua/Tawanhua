@@ -1,9 +1,9 @@
 ## About Me 
 **Hello👋 , I'm Jerry Sean Huynh**
-<p align="left"> 
+
 *   [![LinkedIn logo](https://cdn.simpleicons.org/linkedin/EFCE3F)]()
 *   [![GitHub logo](https://cdn.simpleicons.org/github/EFCE3F)]()
-</p>
+
 
 **Contact Me:**
 
