@@ -9,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,typescript,python,kotlin,dart,c,cpp,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=spring,react,nextjs,tailwind,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,react,nextjs,tailwind,nodejs,sass)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,jest,mysql,mongo)](https://skillicons.dev)
 
